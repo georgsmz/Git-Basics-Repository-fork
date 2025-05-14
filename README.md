@@ -140,6 +140,8 @@ git merge other-branch-of-that-you-want-to-include-changes-in-your-branch
 # Note: That's also what happens during a PR
 ```
 
+das ist cool
+
 ### Further Links
 
 The following links support you normalizing / standardizing your daily work with git:
